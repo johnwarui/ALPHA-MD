@@ -149,12 +149,12 @@
     },
     "NUMERO_OWNER": {
       "description": "Your phone number (exclude '+' and area code, e.g., '254796299159')",
-      "value": "254796299159",
+      "value": "254797462923",
       "required": false
     },
     "WARN_COUNT": {
       "description": "Set the warning limit for warning commands",
-      "value": "3",
+      "value": "4",
       "required": false
     },
     "STARTING_BOT_MESSAGE": {
