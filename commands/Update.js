@@ -15,7 +15,7 @@ keith({
 
   // Check if the command is issued by the owner
   if (!superUser) {
-    return repondre("*This command is restricted to the bot owner or Alpha owner 💀*");
+    return repondre("*This command is restricted to the bot owner and that's me so fuck off*");
   }
 
   // Ensure Heroku app name and API key are set
