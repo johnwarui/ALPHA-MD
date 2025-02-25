@@ -2,7 +2,7 @@
 <h1 align="center"> 𝐀𝐋𝐏𝐇𝐀-𝐌𝐃 </h1>
 
  
-<h1 align="center"> Surviving is winning frankline everything else is bullshit,fairy tales spun by people afraid to look life in the eye,do whatever it takes kid ,,survive 😏🙏
+<h1 align="center"> This is My project 😏🙏
 </h1>
 
 
